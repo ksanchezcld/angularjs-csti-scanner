@@ -3,3 +3,6 @@ nyawc==1.8.2
 requests==2.21.0
 requests_toolbelt==0.9.1
 selenium==3.141.0
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=3.1.6 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
